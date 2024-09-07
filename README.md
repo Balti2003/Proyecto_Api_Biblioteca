@@ -1,6 +1,6 @@
 # PROYECTO API BIBLIOTECA
 
-Esta API permite gestionar una colección de libros. A continuación se describen los endpoints disponibles.
+Esta API permite gestionar una colección de libros, al ultimo podras encontrar unas capturas del sistema crud. A continuación se describen los endpoints disponibles.
 
 ## Endpoints
 
@@ -229,4 +229,8 @@ Esta API permite gestionar una colección de libros. A continuación se describe
         }
     ]
     ```
+
+    ![Libros](https://github.com/Balti2003/Proyecto_Api_Biblioteca/blob/main/images/libros.PNG?raw=true)
+    ![Autores](https://github.com/Balti2003/Proyecto_Api_Biblioteca/blob/main/images/autores.PNG?raw=true)
+    ![Nuevo Libro](https://github.com/Balti2003/Proyecto_Api_Biblioteca/blob/main/images/nuevolibro.PNG?raw=true)
 
