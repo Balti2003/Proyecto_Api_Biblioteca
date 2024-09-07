@@ -229,7 +229,7 @@ Esta API permite gestionar una colección de libros, al ultimo podras encontrar 
         }
     ]
     ```
-
+    ### Capturas
     ![Libros](https://github.com/Balti2003/Proyecto_Api_Biblioteca/blob/main/images/libros.PNG?raw=true)
     ![Autores](https://github.com/Balti2003/Proyecto_Api_Biblioteca/blob/main/images/autores.PNG?raw=true)
     ![Nuevo Libro](https://github.com/Balti2003/Proyecto_Api_Biblioteca/blob/main/images/nuevolibro.PNG?raw=true)
